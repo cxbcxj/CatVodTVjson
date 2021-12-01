@@ -1,6 +1,4 @@
-"spider": "https://ghproxy.com/https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-
-  "sites": [
+ "sites": [
   {
     "key": "csp_YydsAli1",
     "name": "YYDS阿里(爬虫)",
